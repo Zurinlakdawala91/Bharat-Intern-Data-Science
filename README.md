@@ -1,10 +1,15 @@
 # Bharat-Intern-Data-Science
-Task 1 - SMS Classifier
+
+# Task 1 - SMS Classifier
+
+# AIM
 
 Developed a text classification model to classify SMS as either spam or non-spam using data science techniques in Python.
 
-Task 2 - Titanic Classification
-AIM:
+# Task 2 - Titanic Classification
+
+# AIM:
+
 The sinking of the Titanic on April 15, 1912, during its maiden voyage, is a tragic and well-known historical event. The collision with an iceberg resulted in the loss of 1502 out of 2224 passengers and crew members. The disaster had a profound impact on global safety regulations for ships.
 
 While chance played a role in survival, it has been observed that certain groups of people were more likely to survive than others.
